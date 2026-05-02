@@ -29,9 +29,9 @@ The electronics are simple. There is a Makerhawk Bluetooth Audio Module, a Pam84
 **Programming** 
 Included in this project is a small Python desktop app that pairs to the makerhawk and plays a spotify song on an alarm function. This is a little bit jank, and just for my purposes. As it stands you need your computer on all night for this to work. But if you want to use it, setup is wildly simple.
 
-**Important Programming Notes**
+**Important Electronics Notes**
 
-Don't just print the programming enclosures and call it good. You want electronics shielding on everything- everywhere you can. You also want a capacitor on the Amp.
+Don't just print the electronics enclosures and call it good. You want electronics shielding on everything- everywhere you can. You also want a capacitor on the Amp.
 
 **BOM**
 | Item          | Count |  Price | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Status |
